@@ -1,6 +1,6 @@
 ### Average Calculator (AvgCalculator.c)
 - MPI_Send ve MPI_Recv fonksiyonları kullanılmaktadır.
-- 20 elemanlı int array'in 5 birimlik chunk'lara bölünerek 4 slave makine tarafından distributed olarak hesaplanması.
+- 20 elemanlı int array'in 5 birimlik chunk'lara bölünerek 4 slave makine tarafından distributed olarak hesaplanmaktaıdr.
 
 ### Ceaser Cipher (CeaserCipher.c)
 - MPI_Scatter ve MPI_Gather fonksiyonları kullanılmaktadır.
